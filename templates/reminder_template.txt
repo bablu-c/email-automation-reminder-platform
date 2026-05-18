@@ -1,0 +1,6 @@
+Hello {name},
+
+This is a reminder regarding your upcoming {reminder_type} scheduled on {date}.
+
+Thank you,
+Automation Team

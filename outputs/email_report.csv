@@ -1,0 +1,4 @@
+name,email,reminder_type,status,timestamp
+Rahul,rahul@example.com,Meeting Reminder,DRY_RUN,2026-05-18 16:33:23.287573
+Priya,priya@example.com,Payment Reminder,DRY_RUN,2026-05-18 16:33:23.351072
+Aman,aman@example.com,Webinar Reminder,DRY_RUN,2026-05-18 16:33:23.353102
